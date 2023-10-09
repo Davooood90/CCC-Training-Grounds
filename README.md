@@ -4,7 +4,7 @@
 </head>
 <body>
     <header>
-        <img style="width: 30%" src="example.jpg" alt="A beautiful sunset over the mountains">
+        <img style="width: 30%" src="https://github.com/Davooood90/CCC-Training-Grounds/assets/70912824/7dd4bd61-7767-4063-b8f7-02ba86452173" alt="A beautiful sunset over the mountains">
         <h1>My Website</h1>
         <nav>
             <ul>
