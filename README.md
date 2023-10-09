@@ -4,6 +4,8 @@ Welcome to the **CCC Training Grounds** (AKA some random idea that a super under
 
 Over the next three months, we'll explore fundamental programming and mathematical concepts to boost your competitive programming skills. We recognize that many of you are more comfortable with Python and may not be familiar with C++. However, don't worry; switching between languages is not the real challenge. What truly matters is grasping these universal concepts, as they are the key to success. Whether you're coding in Python or C++, the efficiency gap between the two languages is minimal as long as you can apply the right concepts in the right situations.
 
+# Timeline
+
 | Date             | Focus                                               |
 | :----------------| :---------------------------------------------------|
 | Oct 9 to 22      | **Review**: Refresh on Basic Concepts (Python)      |
