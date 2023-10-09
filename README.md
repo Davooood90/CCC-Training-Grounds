@@ -1,3 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <title>CCC-Training-Grounds</title>
+</head>
+<body>
+    <header>
+        <img style="width: 30%" src="example.jpg" alt="A beautiful sunset over the mountains">
+        <h1>My Website</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
 ![image](https://github.com/Davooood90/CCC-Training-Grounds/assets/70912824/7dd4bd61-7767-4063-b8f7-02ba86452173)
 # CCC Training Grounds
 
