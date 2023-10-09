@@ -9,5 +9,6 @@
             </p>
         </div>
         <img style="width: 40%" src="https://github.com/Davooood90/CCC-Training-Grounds/assets/70912824/7dd4bd61-7767-4063-b8f7-02ba86452173" alt="A beautiful sunset over the mountains">
+    </div>
 </body>
 </html>
