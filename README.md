@@ -1,3 +1,4 @@
+![image](https://github.com/Davooood90/CCC-Training-Grounds/assets/70912824/7dd4bd61-7767-4063-b8f7-02ba86452173)
 # CCC Training Grounds
 
 Welcome to the **CCC Training Grounds** (AKA some random idea that a super underqualified guy and his friend had). We are thrilled to have you on board. Whether you're a seasoned developer looking to expand your skills or a complete beginner taking your first steps into the competitive programming scene, this “camp” is designed to provide you with the resources to kickstart your journey.
