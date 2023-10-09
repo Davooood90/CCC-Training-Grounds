@@ -1,9 +1,26 @@
 <!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .image-text-container {
+            display: flex;
+            align-items: center;
+        }
+
+        .image {
+            max-width: 200px; /* Adjust the image width as needed */
+            margin-right: 20px; /* Add some space between the image and text */
+        }
+    </style>
+</head>
 <body>
-    <header style="display: flex">
-        <img style="width: 10%" src="https://github.com/Davooood90/CCC-Training-Grounds/assets/70912824/7dd4bd61-7767-4063-b8f7-02ba86452173" alt="A beautiful sunset over the mountains">
+    <div class="image-text-container">
+        <img class="image" src="https://github.com/Davooood90/CCC-Training-Grounds/assets/70912824/7dd4bd61-7767-4063-b8f7-02ba86452173" alt="A beautiful sunset over the mountains>
         <h1 style="width: 50%">CCC Training Grounds</h1>
-    </header>
+    </div>
+</body>
+</html>
+
 
 
 ![image](https://github.com/Davooood90/CCC-Training-Grounds/assets/70912824/7dd4bd61-7767-4063-b8f7-02ba86452173)
